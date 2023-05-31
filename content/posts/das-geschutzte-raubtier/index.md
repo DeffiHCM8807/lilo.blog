@@ -3,7 +3,7 @@ title = "Das geschützte Raubtier"
 date = "2023-05-31"
 draft = false
 pinned = false
-image = ""
+image = "wolfgraubuendenneu.jpg"
 description = "Wölfe ziehen durch die Schweiz. Für die Menschen in den betroffenen Gebieten völlig normal und doch eine Bedrohung ihrer Existenz. Die Sorgen der Bauern steigen, sie wollen eine Regulierung und doch erhalten sie wenig Unterstützung. "
 +++
 **Das geschützte Raubtier**
