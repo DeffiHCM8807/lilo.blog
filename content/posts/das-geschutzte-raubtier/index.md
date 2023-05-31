@@ -6,8 +6,6 @@ pinned = false
 image = "wolfgraubuendenneu.jpg"
 description = "Wölfe ziehen durch die Schweiz. Für die Menschen in den betroffenen Gebieten völlig normal und doch eine Bedrohung ihrer Existenz. Die Sorgen der Bauern steigen, sie wollen eine Regulierung und doch erhalten sie wenig Unterstützung. "
 +++
-**Das geschützte Raubtier**
-
 **Wölfe ziehen durch die Schweiz. Für die Menschen in den betroffenen Gebieten völlig normal und doch eine Bedrohung ihrer Existenz. Die Sorgen der Bauern steigen, sie wollen eine Regulierung und doch erhalten sie wenig Unterstützung.**
 
 Von **Lavinia Kunz und Viviane Auer**
@@ -22,7 +20,7 @@ Er selbst hat schon einige Schafe an Wolfsangriffe verloren und meint dazu, dass
 
 ![Eine Grafik zur steigenden Wolfspopulation in der Schweiz; Foto: www.uvek.ch (28.04.23) ](wolfsgrafik.jpg)
 
-***Die Geschichte des Wolfes**
+**\*Die Geschichte des Wolfes**
 Durch das Aufkommen der Schusswaffen in der Schweiz, wurden die natürlichen Beutetiere des Wolfs ausgerottet, weshalb der Wolf vermehrt die Nutztiere des Menschen angriff. Durch den Nahrungsmangel und den vermehrten Abschuss des Wolfes reduzierte sich die Wolfspopulation in der Schweiz stark, bis schliesslich im 20. Jahrhundert nur vereinzelte Wölfe im Graubünden lebten.* 
 
 **Eine radikalere Sichtweise**
@@ -45,7 +43,6 @@ Allgemein gelten alle Tiere, welche nicht zu einer jagdbaren Art gehören, inklu
 **Artenvielfalt und Nutzen**
 
 ![David Gerke; Foto: www.gruppe-wolf.ch (27.04.23)](davidgerke.jpg)
-
 
 Eine andere Sichtweise als Herr Geissmann hat David Gerke. Er lebt im Kanton Bern und ist als Jäger tätig. Hauptsächlich schiesst er Wild für die Ernährungsgewinnung. Einen Wolf hat er noch nie geschossen, da diese geschützt sind und nicht von Jägern gejagt werden dürfen. “Und selbst wenn das nicht so wäre, würde ich keinen Wolf töten”, erklärt er. Denn für ihn gehören die Wölfe zur Artenvielfalt. Er würde sich weigern einen Wolf abzuschiessen, da der Wolf absolut notwendig für das Ökosystem sei und weil sie dabei helfen würden, die Bestände der Pflanzenfresser zu regulieren. “Die Regulierung des Wolfsbestandes ist nicht notwendig”, erklärt er. “Denn Risse lassen sich mit Regulierungen nicht verhindern.” 
 
