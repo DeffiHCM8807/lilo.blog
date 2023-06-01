@@ -3,6 +3,7 @@ title = "Das geschützte Raubtier"
 date = "2023-05-31"
 draft = false
 pinned = false
+tags = ["#Deutsch #Reportage"]
 image = "wolfgraubuendenneu.jpg"
 description = "Wölfe ziehen durch die Schweiz. Für die Menschen in den betroffenen Gebieten völlig normal und doch eine Bedrohung ihrer Existenz. Die Sorgen der Bauern steigen, sie wollen eine Regulierung und doch erhalten sie wenig Unterstützung. "
 footnotes = ""
@@ -21,7 +22,7 @@ Er selbst hat schon einige Schafe an Wolfsangriffe verloren und meint dazu, dass
 
 ![Eine Grafik zur steigenden Wolfspopulation in der Schweiz; Foto: www.uvek.ch (28.04.23) ](wolfsgrafik.jpg)
 
-***Die Geschichte des Wolfes**
+**\*Die Geschichte des Wolfes**
 Durch das Aufkommen der Schusswaffen in der Schweiz, wurden die natürlichen Beutetiere des Wolfs ausgerottet, weshalb der Wolf vermehrt die Nutztiere des Menschen angriff. Durch den Nahrungsmangel und den vermehrten Abschuss des Wolfes reduzierte sich die Wolfspopulation in der Schweiz stark, bis schliesslich im 20. Jahrhundert nur vereinzelte Wölfe im Graubünden lebten.* 
 
 **Eine radikalere Sichtweise**
@@ -39,7 +40,7 @@ Stefan Geissmann betont aber, dass er nicht die vollständige Ausrottung des Wol
 
 Momentan gibt es im Kanton Graubünden mindestens zehn Rudel und es werden wahrscheinlich noch weitere dazukommen. Tierschutzorganisationen sagen jeweils, dass der Wolf einen nicht angreift, wenn er sich nicht bedroht fühlt, doch Stefan Geissmann glaubt, dass Wölfe, oft von Tierschutzorganisationen und anderen, verharmlost werden. 
 
-Allgemein gelten alle Tiere, welche nicht zu einer jagdbaren Art gehören, inklusive des Wolfes, in der Schweiz als geschützt. Doch für den Wolf gibt es weitere Gesetzesartikel, welche sich speziell auf die Regulierung von Wolfsrudeln beziehen. So kann ein Kanton mit der Zustimmung des BAFU die Wolfspopulation regulieren. Dies allerdings nur, wenn im Streifgebiet des Rudels, welches Jungtiere besitzen muss, mindestens 10(wir haben gegoogelt und dort waren es auf der Seite WolfSchweiz 15) Nutztiere in einer Zeitspanne von vier Monaten getötet wurden. Dazu zählen nur Nutztiere, welche mit ausreichenden Herdenschutzmassnahmen geschützt wurden. Es dürfen maximal die Hälfte der Jungtiere, welche im entsprechenden Jahr zu Welt kamen, abgeschossen werden. 
+Allgemein gelten alle Tiere, welche nicht zu einer jagdbaren Art gehören, inklusive des Wolfes, in der Schweiz als geschützt. Doch für den Wolf gibt es weitere Gesetzesartikel, welche sich speziell auf die Regulierung von Wolfsrudeln beziehen. So kann ein Kanton mit der Zustimmung des BAFU die Wolfspopulation regulieren. Dies allerdings nur, wenn im Streifgebiet des Rudels, welches Jungtiere besitzen muss, mindestens 15 Nutztiere in einer Zeitspanne von vier Monaten getötet wurden. Dazu zählen nur Nutztiere, welche mit ausreichenden Herdenschutzmassnahmen geschützt wurden. Es dürfen maximal die Hälfte der Jungtiere, welche im entsprechenden Jahr zu Welt kamen, abgeschossen werden. 
 
 **Artenvielfalt und Nutzen**
 
