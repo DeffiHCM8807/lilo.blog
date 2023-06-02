@@ -1,7 +1,7 @@
 +++
 title = "Das geschützte Raubtier"
 date = "2023-05-31"
-draft = false
+draft = true
 pinned = false
 tags = ["#Deutsch #Reportage"]
 image = "wolfgraubuendenneu.jpg"
