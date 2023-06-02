@@ -1,7 +1,7 @@
 +++
 title = "Das geschützte Raubtier"
 date = "2023-05-31"
-draft = true
+draft = false
 pinned = false
 tags = ["#Deutsch #Reportage"]
 image = "wolfgraubuendenneu.jpg"
@@ -22,8 +22,8 @@ Er selbst hat schon einige Schafe an Wolfsangriffe verloren und meint dazu, dass
 
 ![Eine Grafik zur steigenden Wolfspopulation in der Schweiz; Foto: www.uvek.ch (28.04.23) ](wolfsgrafik.jpg)
 
-**\*Die Geschichte des Wolfes**
-Durch das Aufkommen der Schusswaffen in der Schweiz, wurden die natürlichen Beutetiere des Wolfs ausgerottet, weshalb der Wolf vermehrt die Nutztiere des Menschen angriff. Durch den Nahrungsmangel und den vermehrten Abschuss des Wolfes reduzierte sich die Wolfspopulation in der Schweiz stark, bis schliesslich im 20. Jahrhundert nur vereinzelte Wölfe im Graubünden lebten.* 
+***Die Geschichte des Wolfes**
+Durch das Aufkommen der Schusswaffen in der Schweiz, wurden die natürlichen Beutetiere des Wolfs ausgerottet, weshalb der Wolf vermehrt die Nutztiere des Menschen angriff. Durch den Nahrungsmangel und den vermehrten Abschuss des Wolfes reduzierte sich die Wolfspopulation in der Schweiz stark, bis schliesslich im 20. Jahrhundert nur vereinzelte Wölfe im Graubünden lebten.*
 
 **Eine radikalere Sichtweise**
 Ein bisschen aufgebrachter über die Situation ist Stefan Geissmann. Auch er lebt im Graubünden. Er ist Ziegenhalter und Berater für Kleinwiederkäuer und in der Fachgruppe für Herdenschutzmassnahmen. Eingezäunte und von Herdenschutzhunden bewachte Herden gelten laut Gesetz als geschützt. Denn dann ist der Wolf gehemmt dort hineinzugehen, da, nach dem Stand der Forschung, Wölfe am liebsten einfach und schnell zu jagende Beutetiere verfolgen. Er will einen möglichst kleinen Energieaufwand während der Jagd haben. Der Wolf ist jedoch schlauer als viele denken. Er lernt, Schutzmassnahmen zu umgehen und kann sich trotzdem in die Herde einschleichen. Wenn er auf einen Zaun trifft, lernt er mit der Zeit diesen zu überspringen oder zu unterschlüpfen. Wenn er sieht, dass die Herde von Herdenschutzhunden bewacht wird, wartet er, bis die Hunde an einer anderen Stelle sind und schleicht sich ein. Doch vielfach ist es gar nicht möglich, die Herde einzuzäunen. Die steile Topografie und das ständige Herumziehen mit den Schafen wegen der Futtersuche erschweren es, einen dauerhaften Zaun aufzustellen und so verlässt man sich hauptsächlich auf die Herdenschutzhunde. Wenn Wölfe zuschlagen, reissen sie meistens nicht nur ein Schaf, sondern gleich mehrere. Die Schafe sind dann aber vielfach noch gar nicht richtig tot und man kann ihre kläglichen Schreie hören. Das wird sehr emotional. 
