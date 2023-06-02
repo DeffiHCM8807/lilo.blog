@@ -22,7 +22,7 @@ Er selbst hat schon einige Schafe an Wolfsangriffe verloren und meint dazu, dass
 
 ![Eine Grafik zur steigenden Wolfspopulation in der Schweiz; Foto: www.uvek.ch (28.04.23) ](wolfsgrafik.jpg)
 
-***Die Geschichte des Wolfes**
+**\*Die Geschichte des Wolfes**
 Durch das Aufkommen der Schusswaffen in der Schweiz, wurden die natürlichen Beutetiere des Wolfs ausgerottet, weshalb der Wolf vermehrt die Nutztiere des Menschen angriff. Durch den Nahrungsmangel und den vermehrten Abschuss des Wolfes reduzierte sich die Wolfspopulation in der Schweiz stark, bis schliesslich im 20. Jahrhundert nur vereinzelte Wölfe im Graubünden lebten.*
 
 **Eine radikalere Sichtweise**
