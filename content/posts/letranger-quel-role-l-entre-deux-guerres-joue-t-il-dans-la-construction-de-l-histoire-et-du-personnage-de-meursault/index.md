@@ -1,7 +1,7 @@
 +++
 title = "L'étranger: Quel rôle l’entre-deux-guerres joue-t-il dans la construction de l’histoire et du personnage de Meursault ?"
 date = "2025-02-10"
-draft = true
+draft = false
 pinned = false
 footnotes = "La crise politique de \"L'entre-deux-guerres\" (1918-1939)\n\nhttps://revue-histoire.fr/histoire-contemporaine/pourquoi-lentre-deux-guerres-a-t-il-ete-une-periode-de-tension/\n\nhttps://fr.wikipedia.org/wiki/Albert_Camus\n\nhttps://www.studocu.com/fr/document/universite-de-lorraine/histoire-contemporaine/his-le-monde-entre-deux-guerres-1918-1939/12453332\n\nhttps://books.openedition.org/pupo/11633"
 +++
